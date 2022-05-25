@@ -1,0 +1,31 @@
+@font-face{
+    font-family: 'comfortaa';
+    src: url('../font/Comfortaa/Comfortaa-Regular.ttf');
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'comfortaa';
+    src: url('../font/Comfortaa/Comfortaa-Bold.ttf');
+    font-weight: 700;
+}
+@font-face{
+    font-family: 'roboto';
+    src: url('../font/Roboto/Roboto-Regular.ttf');
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'roboto';
+    src: url('../font/Roboto/Roboto-Medium.ttf');
+    font-weight: 500;
+}
+@font-face{
+    font-family: 'montserrat';
+    src: url('../font/Montserrat/Montserrat-Regular.ttf');
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'montserrat';
+    src: url('../font/Montserrat/Montserrat-Bold.ttf'
+    );
+    font-weight: 700;
+}
